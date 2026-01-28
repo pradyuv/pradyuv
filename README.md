@@ -29,25 +29,25 @@ I am a soon-to-be graduating student of Software Engineering at **uOttawa** with
 **Used Car Price Deviation Detector**
 * **The Goal:** A residual-based pricing system to detect under/over-valued vehicle listings.
 * **The Tech:** Python, Pandas, scikit-learn, Random Forest.
-* [cite_start]**The Win:** Cleaned raw listings into a stable schema and implemented banded thresholds for clear interpretability[cite: 37, 38, 39].
+* **The Win:** Cleaned raw listings into a stable schema and implemented banded thresholds for clear interpretability.
 
 ## 🔧 The Toolbox
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]**C** (Embedded), **C++**, Python, Java, SQL, C# [cite: 43] |
-| **Systems & Testing** | [cite_start]Linux, Cmocka, Slash, Memory Management, Unit Testing [cite: 44, 45, 46] |
-| **DevOps & Cloud** | [cite_start]Docker, Jenkins, Git, Azure, CI/CD [cite: 44] |
+| **Languages** | **C** (Embedded), **C++**, Python, Java, SQL, C# |
+| **Systems & Testing** | Linux, Cmocka, Slash, Memory Management, Unit Testing |
+| **DevOps & Cloud** | Docker, Jenkins, Git, Azure, CI/CD |
 
 ## 👨‍💻 Timeline & Impact
 
 * **Now:** Software Engineer Intern at **Ciena (Global R&D)**.
     * *Focus:* Embedded C, Low-level debugging, Memory optimization.
-    * [cite_start]*Impact:* Designed a low-level debug command to traverse cache tables and increased unit test line coverage by 2x using Cmocka[cite: 15, 17].
+    * *Impact:* Designed a low-level debug command to traverse cache tables and increased unit test line coverage by 2x using Cmocka.
 
 * **2024:** SE Intern at **Health Canada**.
     * *Focus:* Python Automation & SQL.
-    * [cite_start]*Impact:* Automated report aggregation, reducing manual workload by **70%**[cite: 22].
+    * *Impact:* Automated report aggregation, reducing manual workload by **70%**.
 
 * **2023:** SE Intern at **Field Effect Security**.
     * *Focus:* C# & Azure Functions.
