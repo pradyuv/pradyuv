@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > **Systems Engineer building at the intersection of performance and product.**
 
-I am a soon-to-be graduating student of Software Engineering at **uOttawa** with a passion for the "under the hood" details of software: memory, concurrency, and architecture. I combine professional experience in embedded systems and enterprise automation with a personal drive to build complex audio engines from scratch. Currently learning and strengthening my knowledge in systems-level thinking.
+I am a newly graduated student of Software Engineering at **uOttawa** with a passion for the "under the hood" details of software: memory, concurrency, and architecture. I combine professional experience in embedded systems and enterprise automation with a personal drive to build complex audio engines from scratch. Currently learning and strengthening my knowledge in systems-level thinking.
 
 ## 🚀 What I'm Building
 
@@ -51,11 +51,11 @@ I am a soon-to-be graduating student of Software Engineering at **uOttawa** with
 
 * **2023:** SE Intern at **Field Effect Security**.
     * *Focus:* C# & Azure Functions.
-    * [cite_start]*Impact:* Optimized data retrieval time by **25%** for internal client databases[cite: 29].
+    * *Impact:* Optimized data retrieval time by **25%** for internal client databases.
 
 * **2023:** Infra Intern at **Ford Motor Company**.
     * *Focus:* CI/CD & Python Validation.
-    * [cite_start]*Impact:* Improved build pipeline reliability by **20%** via Jenkins & Slash integration[cite: 34].
+    * *Impact:* Improved build pipeline reliability by **20%** via Jenkins & Slash integration.
 
 ## 🥊 Out of Office
 When I'm not debugging memory leaks, I am:
