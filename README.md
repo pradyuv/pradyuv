@@ -35,7 +35,7 @@ I am a newly graduated student of Software Engineering at **uOttawa** with a pas
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | **C** (Embedded), **C++**, Python, Java, SQL, C# |
+| **Languages** | C, C++, Python, Java, SQL, C# |
 | **Systems & Testing** | Linux, Cmocka, Slash, Memory Management, Unit Testing |
 | **DevOps & Cloud** | Docker, Jenkins, Git, Azure, CI/CD |
 
