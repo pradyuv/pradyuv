@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 > **Systems Engineer building at the intersection of performance and product.**
 
-I am a soon-to-be graduating student of Software Engineering at **uOttawa** with a passion for the "under the hood" details of software—memory, concurrency, and architecture. I combine professional experience in embedded systems and enterprise automation with a personal drive to build complex audio engines from scratch.
+I am a soon-to-be graduating student of Software Engineering at **uOttawa** with a passion for the "under the hood" details of software: memory, concurrency, and architecture. I combine professional experience in embedded systems and enterprise automation with a personal drive to build complex audio engines from scratch. Currently learning and strengthening my knowledge in systems-level thinking.
 
 ## 🚀 What I'm Building
 
