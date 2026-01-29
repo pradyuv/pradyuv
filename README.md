@@ -61,7 +61,7 @@ I am a newly graduated student of Software Engineering at **uOttawa** with a pas
 When I'm not debugging memory leaks, I am:
 * 🎹 **Musician:** Playing piano and producing music.
 * 🥋 **Athlete:** Training in combat sports.
-* 📚 **Reader:** Philosophy and non-fiction.
+* 📚 **Reader:** Whatever interests me, which are a great many things.
 
 ---
 [Portfolio](https://www.pradyuvasu.dev/) • [LinkedIn](https://www.linkedin.com/in/pradyu-vasudev/) • [p.vasudev0404@gmail.com](mailto:p.vasudev0404@gmail.com)
